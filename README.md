@@ -54,11 +54,7 @@ You are a web developer at a service-based web development company called Kite T
 
 
 
-## App Screenshot:
 
-![website](https://drive.google.com/uc?export=view&id=15GbSmgd5Nyw0fOq8EOVIAESxjrsZI5qL)
-![website](https://drive.google.com/uc?export=view&id=11F6U7DYQ0JhADwPpHk5Aa2SOCbRL2sHg)
-![website](https://drive.google.com/uc?export=view&id=1P0vpk1TifEx1zdxcPbSaAyHJTPWFBAuV)
 
 
 
